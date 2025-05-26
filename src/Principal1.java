@@ -1,7 +1,7 @@
 public class Principal1 {
 
     public static void main(String[] args) {
-
+        // tipos primitivos
         int diasParaEntrega;
         long codigoEntrega;
         float valorFrete;
@@ -9,6 +9,7 @@ public class Principal1 {
         char tipoCliente;
         boolean compraPaga;
 
+        // String é uma classe
         String nomeCliente;
 
     }
